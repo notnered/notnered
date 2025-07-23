@@ -6,6 +6,7 @@ Here i'm trying to become a fullstack web-developer
   
 - 📒 My frontend stack is JS(ES7+), TS, React, Tailwind/SCSS. My Backend stack is mainly NodeJS(Express), NextJS and Python(Django). Also i have some knowledge of php and C# for side-projects
 
-- 💬 My Social Links:
+- 💬 My Links:
 - [X: @nererererere](https://x.com/nererererere)
 - [Telegram: @notnered](https://t.me/notnered)
+- [GitLab: @notnered](https://gitlab.com/notnered)
