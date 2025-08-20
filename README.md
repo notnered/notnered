@@ -7,6 +7,5 @@ Here i'm trying to become a fullstack web-developer
 - 📒 My frontend stack is JS(ES7+), TS, React/NextJS, Vue3/Nuxt3, Tailwind/SCSS/CSS-modules. My backend stack is NodeJS(ExpressJS) and Python3(Django, FastAPI). Also i have some knowledge of Laravel(PHP) and C# for side-projects
 
 - 💬 My Links:
-- [X: @nererererere](https://x.com/nererererere)
 - [Telegram: @notnered](https://t.me/notnered)
 - [GitLab: @notnered](https://gitlab.com/notnered)
