@@ -1,10 +1,18 @@
-## Hi there, my name is Konstantin 👋
+## Hey, I'm Konstantin 👋
 
-Here i'm trying to become a fullstack web-developer
+Full-stack developer with a passion for building practical software — from web platforms to internal tools and side projects.
+<br>
+I focus on clean architecture, performance, and developer experience.
 
-- 💻 I’m currently working on full-stack position, but still open to offers
-  
-- 📒 My frontend stack is JS(ES7+), TS, React/NextJS, Vue3/Nuxt3, Tailwind/SCSS/CSS-modules. My backend stack is NodeJS(ExpressJS) and Python3(Django, FastAPI). Also i have some knowledge of Laravel(PHP) and C# for side-projects
+- 💻 Currently working full-time as a full-stack developer, but open to new projects and collaborations.
 
-- 💬 My Links:
-- [GitLab: @notnered](https://gitlab.com/notnered)
+- ⚙️ Frontend: JavaScript (ES7+), TypeScript, React / Next.js, Vue 3 / Nuxt 3, Tailwind CSS, SCSS, CSS Modules
+
+- 🧩 Backend: Node.js (Express), Python (Django, FastAPI), PHP (Laravel)
+
+- 🛠️ Occasionally work on C# (.NET, Unity) projects outside the web.
+
+- 🚀 I enjoy solving complex problems, designing APIs, and finding ways to make projects more reliable and efficient.
+
+- 🔗 Find me here:
+  - [GitLab - @notnered](https://gitlab.com/notnered)
